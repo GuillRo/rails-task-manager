@@ -1,0 +1,46 @@
+// Place all the styles related to the tasks controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.container{
+  padding: 50px;
+}
+
+.title {
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  font-size: 50px;
+  // padding:20px;
+}
+
+.text {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  padding:2px;
+  color: black;
+}
+.label{
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  font-size: 30px;
+  padding:5 0 0 0;
+  color: black;
+}
+
+a {
+  color: inherit;
+}
+
+a:hover{
+  color:red;
+}
+
+a:link
+{
+text-decoration:none;
+}
+
+.btn-dark{
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  font-size: 20px;
+  padding: 10px;
+  margin: 0;
+}
